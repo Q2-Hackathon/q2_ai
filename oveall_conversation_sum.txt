@@ -1,0 +1,16 @@
+November monthe chat : {"one_sentence":"Mr. Sharma expressed frustration with recent issues, and the RM assured him of a resolution and better communication going forward.
+",
+"bullet_points":"- RM acknowledged Mr. Sharma's frustration and apologized for the inconvenience caused by the delay in his credit card application and confusion regarding charges on his savings account
+- RM committed to personally expedite Mr. Sharma's credit card application and work with him to minimize future charges on his savings account
+- RM assured Mr. Sharma that his satisfaction is important and appreciated his patience and understanding
+- RM discussed a new personalized financial planning service, but Mr. Sharma preferred to focus on resolving the current issues before considering any new services
+- RM assured Mr. Sharma that once the issues are resolved, they will be happy to discuss additional services or features to enhance his banking experience
+"
+}
+October Month chat : {"one_sentence":"Mr. Sharma expressed interest in getting a credit card and prefers cashback or rewards on day-to-day expenses and online shopping. The RM recommended the "Rewards Plus" credit card, which offers generous cashback on grocery shopping, dining, and online transactions. Mr. Sharma found the recommendation reasonable and proceeded with the application.
+"
+"bullet_points": "- Mr. Sharma expressed interest in getting a credit card and asked for recommendations
+- RM recommended the "Rewards Plus" credit card, which offers generous cashback on grocery shopping, dining, and online transactions
+- Mr. Sharma decided to proceed with the application and appreciated the RM's assistance
+- RM offered to schedule a meeting with an investment specialist to discuss mutual funds and guide Mr. Sharma through the investment process
+- Mr. Sharma agreed to schedule the meeting and expressed appreciation for the RM's transparency and guidance"} 
