@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>R-M Page</title>
+  <link rel="stylesheet" href="R-M.css">
+  <script src="https://kit.fontawesome.com/8d185dfe14.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="nav">
+    <div class="nav_left">
+      <button class="btn_nav_left" id="drpbtn1"><i class="fa-solid fa-globe"></i>Change Location<i
+          class="fa-solid fa-caret-down"></i></button>
+      <ul id="drpopt1" style="display: none;">
+        <li><a href="#" style="text-decoration: none;">America</a></li>
+        <li><a href="#" style="text-decoration: none;">Africa</a></li>
+        <li><a href="#" style="text-decoration: none;">Saudi Arabia</a></li>
+      </ul>
+    </div>
+    <div class="nav_right">
+      <ul>
+        <li><a href="#">Our People</a></li>
+        <li><a href="#">Developer</a></li>
+        <li><a href="#">Partner</a></li>
+        <li><a href="#">Investor</a></li>
+      </ul>
+      <div class="log-in">
+        <button class="btn_nav_right" id="drpbtn2">Log In <i class="fa-solid fa-caret-down"></i></button>
+        <ul class="ul" id="drpopt2" style="display: none;">
+          <li><a href="#" style="color: black;">Customer</a></li>
+          <li><a href="#" style="color: black;">Developer</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="firstSection">
+    <div class="left">
+      <div class="logo">
+        <img src="https://companieslogo.com/img/orig/QTWO-d0a86e7d.png?t=1648815631" alt="Q2 logo">
+      </div>
+      <div class="list">
+        <ul>
+          <li><a href="">Solutions</a></li>
+          <li><a href="">Resources</a></li>
+          <li><a href="">Customer Success</a></li>
+          <li><a href="">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="right">
+      <div><i class="fa-solid fa-magnifying-glass"></i></div>
+      <div><button class="cnt_btn">Contact Us</button></div>
+    </div>
+  </div>
+  <div class="secondSection">
+    <div class="detail_left">
+      <div class="profile">
+        <div class="image">
+          <i class="fa-solid fa-user"></i>
+        </div>
+        <!-- <div class="name">User Name</div> -->
+        <div class="mini_details">
+          <div>
+            <h5>Name</h5>
+            <p>Shivam Mishra</p>
+          </div>
+          <div>
+            <h5>User id</h5>
+            <p>shiv</p>
+          </div>
+          <div>
+            <h5>Address</h5>
+            <p>Greater Noida</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <main class="container">
+      <div class="firstsection" id="1stsection">
+        <p><b>Customer ID:</b> 1</p>
+        <p><b>Name:</b> Shivam Mishra</p>
+        <p><b>Age:</b> 32</p>
+        <p><b>Location:</b> San Francisco,CA</p>
+        <p><b>Credit Score:</b> 750</p>
+        <p><b>Has Credit Card:</b> Yes</p>
+        <p><b>Estimated Salary:</b> $100,000</p>
+        <p><b>Excited:</b> Yes</p>
+        <p><b>Tenure:</b> 5 years</p>
+        <p><b>Marital:</b> Married</p>
+        <p><b>Loan Type:</b> Car</p>
+      </div>
+      <div class="secondsection">
+        <div class="first">
+              <canvas id="lineChart" class="chart"></canvas>
+          </div>
+          <div class="second">
+              <canvas id="barChart" class "chart"></canvas>
+          </div>
+          <div class="third">
+              <canvas id="pieChart" class="chart"></canvas>
+          </div>
+          <div class="fourth">
+              <canvas id="lineChartLower" class="chart"></canvas>
+          </div>
+          <div class="fifth">
+              <canvas id="barChartLower" class="chart"></canvas>
+          </div>
+          <div class="sixth">
+              <canvas id="pieChartLower" class="chart"></canvas>
+          </div>
+      </div>
+    </main>
+  </div>
+
+
+  <script src="./R-M.js"></script>
+</body>
+
+</html>
